@@ -12,7 +12,7 @@ import warnings
 warnings.simplefilter(action='ignore', category=FutureWarning)
 
 # Load Data
-company = "FB"
+company = "BABA"
 
 start = dt.datetime(2012,1,1)
 end = dt.datetime(2020,1,1)
